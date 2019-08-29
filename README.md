@@ -1,7 +1,3 @@
-# wisdommbila.github.io
-
-Personal Portfolio
-
 STACKS
 
 HTML5
